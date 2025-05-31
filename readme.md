@@ -1,6 +1,6 @@
 # How to Install Minikube from Scratch
 
-English | [简体中文](README-cn.md)
+English | [简体中文](readme-cn.md)
 
 This guide provides step-by-step instructions for installing Minikube on Ubuntu Linux from scratch, including all necessary dependencies.
 
