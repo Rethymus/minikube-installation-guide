@@ -1,6 +1,6 @@
 # 如何从零开始安装 Minikube
 
-[English](README.md) | 简体中文
+[English](readme.md) | 简体中文
 
 本指南提供了在 Ubuntu Linux 系统上从零开始安装 Minikube 的详细步骤，包括所有必要的依赖项。
 
@@ -20,7 +20,7 @@ sudo apt update && sudo apt install -y curl
 
 ### 2. 安装 Docker
 
-在开始安装前，若想先熟悉 Docker 基础信息，建议阅读 [docker.md](docker.md) 。 
+在开始安装前，若想先熟悉 Docker 基础信息，建议阅读 [docker](docker.md) 。 
 
 #### 设置 Docker 的 apt 存储库
 
