@@ -20,6 +20,8 @@ sudo apt update && sudo apt install -y curl
 
 ### 2. 安装 Docker
 
+在开始安装前，若想先熟悉 Docker 基础信息，建议阅读 [docker.md](docker.md) 。 
+
 #### 设置 Docker 的 apt 存储库
 
 ```bash
