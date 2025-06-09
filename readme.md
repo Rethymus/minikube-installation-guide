@@ -20,6 +20,8 @@ sudo apt update && sudo apt install -y curl
 
 ### 2. Install Docker
 
+Before starting the installation, if you want to get familiar with the basic information of docker first, it is recommended to read [docker](docker.md).
+
 #### Set up Docker's apt repository
 
 ```bash
