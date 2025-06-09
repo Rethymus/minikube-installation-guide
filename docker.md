@@ -433,8 +433,8 @@ USER appuser # 使用用户
 docker run -v ./config.yaml:/app/config.yaml
 ```
 
-4. 多阶段构建(TODO)
+4. 多阶段构建
 
-## Contributors |  作者
+## Contributors |  贡献者
 
 - [CLZZ](https://github.com/zccccc01) 
